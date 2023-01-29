@@ -1,5 +1,5 @@
-import Deck from './views/deckView.js';
-import colorView from './views/colorView.js';
+import Deck from './views/deckview.js';
+import colorView from './views/colorview.js';
 import {
   CARD_VALUES_MAP,
   computerCardSlot,
